@@ -272,7 +272,7 @@ nav ul li a:hover {
     }
 
     .blue-container ul {
-        display: ruby;
+        display:ruby-base-container;
         margin-top: -1em;
         align-items: center;
     }
@@ -371,9 +371,7 @@ nav ul li a:hover {
 
     }
 
-    .server {
-        margin: 0 5em 0 0;
-    }
+    
 }
 
 @media only screen and (min-width: 1600px) {
