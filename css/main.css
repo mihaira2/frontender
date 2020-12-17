@@ -41,7 +41,7 @@ header {
 }
 
 .server {
-    width: 70%;
+    width: 90%;
     margin: 2em auto 2em 25%;
 }
 
@@ -112,11 +112,12 @@ h1, .subhead {
     background: #F6F6F6;
     padding: 4em 0 2em;
     margin-top: -3%;
+    display: flex
 
 }
 
 .gray-container ul li:first-child: {
-    margin-bottom: 2em;
+    margin-bottom: 9em;
 }
 
 figure {
@@ -286,6 +287,7 @@ nav ul li a:hover {
 
     .gray-container ul {
         display: flex;
+        align-items: center;
     }
 
     nav ul {
@@ -364,8 +366,13 @@ nav ul li a:hover {
         100% {
             transform: translateY(20px);
         }
+    
 
 
+    }
+
+    .server {
+        margin: 0 5em 0 0;
     }
 }
 
@@ -396,10 +403,29 @@ nav ul li a:hover {
         width: 15%;
     }
 
-    
+
 
     
     
     }
 
+.apica {
+    width: 108px;
+    height:108px;
+    margin: 0;
+    
 }
+
+.gray-container ul li {
+    align-items: center;
+    margin: 0 0 0 18em;
+}
+
+}
+
+
+
+}
+
+
+
