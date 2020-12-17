@@ -418,6 +418,26 @@ nav ul li a:hover {
     align-items: center;
     margin: 0 0 0 18em;
 }
+.lana {
+    width:600px;
+    height:650px;
+    display: block;
+    margin-left: 4em;
+    margin-right: auto;
+    width: 50%;
+    
+}
+.text {
+    display:inline-block;
+    
+}
+
+.zugrav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
 
 }
 
